@@ -1,0 +1,896 @@
+行业资讯intro:上新“垄断者”谷歌阻碍了AI发展吗?ChatGPT这样一款“无情的AI助手”
+行业资讯intro:上新OpenAI 宣布向所有 ChatGPT Plus 用户推出联网和插件功能
+行业资讯intro:人工智能带给游戏行业的变化究竟是什么？本文将详细解析
+行业资讯intro:你的ChatGPT 帐户信息泄露了吗？
+行业资讯intro:TikTok 宣布Tako AI 的聊天机器人帮助用户寻找内容
+行业资讯intro:Opera推新浏览器“One”，OpenAI 的 GPT 模型的人工智能助手
+行业资讯intro:视频托管和共享平台 Vimeo 正在大力拥抱人工智能
+行业资讯intro:GPT-Engineer一夜爆火！AutoGPT之后，又一个明星项目诞生了！
+行业资讯intro:30天掌握与GPT互动对话的窍门 每天至少 3 小时问GPT大约 100-200 个问题
+行业资讯intro:谷歌推出人工智能虚拟试穿功能，让购物者在模特身上看到服装效果
+热门工具Tool Name:GPT-4【中文平替版】
+Tool Introduction:GPT-4发布：更多资源
+热门工具Tool Name:Midjourney【中文优化版】
+Tool Introduction:白昼AI-Midjourney中文关键词优化
+热门工具Tool Name:StableDiffusion【中文体验版】
+Tool Introduction:海艺AI-国产免费易用的国产AI绘画工具
+热门工具Tool Name:AIGC导航-微信学习交流群
+Tool Introduction:AIGC相关领域的交流、学习和探讨
+热门工具Tool Name:Midjourney官网
+Tool Introduction:一个小型的自筹资金团队，专注于设计、人类基础设施和人工智能
+热门工具Tool Name:Stable Diffusion官网
+Tool Introduction:Stable Diffusion图像生成模型创建图像
+写作平台Tool Name:Monica
+Tool Introduction:在任意网页使用GPT的魔法插件
+写作平台Tool Name:AI提示写作-专享9折！
+Tool Introduction:让 GPT 生产力加倍的秘密武器
+写作平台Tool Name:万彩AI
+Tool Introduction:全能型AI内容和文案创作助手
+写作平台Tool Name:灵境AI创作-专享5折码
+Tool Introduction:一款激发灵感的AI智能写作机器人。包括AI智能对话、AI剧本写作、AI文案写作、AI图片生成
+写作平台Tool Name:5118AI文本写作
+Tool Introduction:一键生成高质量SEO原创文章.
+写作平台Tool Name:腾讯Effidit
+Tool Introduction:腾讯 AI Lab 开发的智能创作助手
+写作平台Tool Name:秘塔写作猫
+Tool Introduction:AIGC、文档辅助创作、智能合同等方向上开展研发与产品落地。
+写作平台Tool Name:水母快写
+Tool Introduction:水母快写-智能AI文章批量生成器 – 人工智能AI一键快速批量生成高质量文章
+写作平台Tool Name:倩言写作
+Tool Introduction:提供大中小学中英文作文素材、语法纠错润色、论文批改写作、托福及考研四六级作文真题提高。
+写作平台Tool Name:印象笔记
+Tool Introduction:一键帮你写作、修改、总结、整理，覆盖20多种写作场景，做你24小时贴心创作助手。
+写作平台Tool Name:Verse
+Tool Introduction:新一代AI生产力工具 灵感自动产生 ｜文章一键生成｜创作领先一步
+写作平台Tool Name:SiteSMO思默问答
+Tool Introduction:思默SiteSMO是一个综合性的AI应用平台
+写作平台Tool Name:一览运营宝-智能编剧
+Tool Introduction:视频AIGC工具“智能编剧”已经上线
+写作平台Tool Name:字语智能
+Tool Introduction:用AI创造更有价值的信息
+写作平台Tool Name:创作王
+Tool Introduction:创作王是一个全能型智能创作平台，可以智能回答、智能创作、智能编写、智能翻译、智能写代码等题。
+写作平台Tool Name:讯飞智作
+Tool Introduction:快速生成高质量的文章、新闻、文案
+写作平台Tool Name:火山写作
+Tool Introduction:流畅英文写作和自信表达自动化工具
+写作平台Tool Name:智子AI – 二向箔
+Tool Introduction:利用数据和计算来创建越来越复杂和强大的大语言模型
+写作平台Tool Name:左脉梦幻师
+Tool Introduction:帮助您快速产出高质量的原创内容
+写作平台Tool Name:Giiso写作机器人
+Tool Introduction:一款内容创作AI辅助写作机器人
+写作平台Tool Name:FridayAI写作助手-系统升级中…
+Tool Introduction:用喝一口咖啡的时间完成写作
+写作平台Tool Name:爱改写
+Tool Introduction:实现知识经济和数字化营销最大价值
+写作平台Tool Name:Notion AI
+Tool Introduction:在任何概念页面中利用 AI 的无限力量。写得更快，想得更远，并增强您的创造力。像魔法一样！
+写作平台Tool Name:Claude
+Tool Introduction:下一代人工智能助手，无论任务大小
+写作平台Tool Name:Jasper.ai
+Tool Introduction:Jasper 是一个人工智能平台，可帮助营销和销售团队更快地创建高质量的内容。停止追逐字数，开始追求想法。
+写作平台Tool Name:COMPOSE AI
+Tool Introduction:Compose AI 是一款免费的 Chrome 插件，可加快您的写作速度，让您可以在任何地方使用自动完成功能，并减少打字时间。
+写作平台Tool Name:Tome
+Tool Introduction:一款强大的人工智能驱动的故事讲述工具
+写作平台Tool Name:CONTENDA
+Tool Introduction:Contenda的人工智能工具以新格式重新构想您的内容，供您的观众发现，您无需额外工作。
+写作平台Tool Name:Copy.ai
+Tool Introduction:在Copy.ai的编辑器中重写，然后发布
+写作平台Tool Name:cresta
+Tool Introduction:Cresta for Sales 可帮助您的团队构建和遵循定制的剧本，这些剧本已被证明可以改善业务成果并缩小表现最好和最差的人之间的差距。
+写作平台Tool Name:frase
+Tool Introduction:Frase AI 可帮助您在几分钟而不是几小时内研究、编写和优化高质量的 SEO 内容。
+写作平台Tool Name:Grammarly
+Tool Introduction:伟大的写作，使用 Grammarly 的新 AI 桌面 Windows 应用程序撰写大胆、清晰、无错误的文章。
+写作平台Tool Name:Harvey
+Tool Introduction:Dynamic Legal Solutions for the AI Revolution.
+写作平台Tool Name:HyperWrite
+Tool Introduction:HyperWrite 可帮助您自信地写作，并更快地完成从构思到最终草稿的工作。
+写作平台Tool Name:Hypotenuse AI
+Tool Introduction:提供几个关键词，我们会利用我们世界一流的人工智能和丰富的知识，立即把它们变成完整的文章和营销内容。
+写作平台Tool Name:jenni
+Tool Introduction:使用最先进的 AI 写作助手为您的写作增光添彩。
+写作平台Tool Name:KAIZAN.ai
+Tool Introduction:Kaizan 使用对话智能自动执行您的任务，并突出显示可以提高客户成功率和收入的因素。
+写作平台Tool Name:LAIKA
+Tool Introduction:LAIKA 是一个创意伙伴，您可以训练它像您（或您想要的任何人）一样写作。专为创意作家、游戏作家和所有其他小说创作者打造。
+写作平台Tool Name:lavender.ai
+Tool Introduction:一家被 Twilio 以 3B+ 美元收购的公司信任他们的代表能够写作。为了帮助他们，他们给了他们护栏，让他们能够朝着正确的方向成长。
+写作平台Tool Name:LongShot
+Tool Introduction:LongShot 是一款 AI 写作助手，可帮助您研究、生成和优化针对人类和搜索引擎的内容博客。
+写作平台Tool Name:Moonbeam
+Tool Introduction:Moonbeam 是唯一经过专门培训的 AI 写作助手，可帮助您撰写论文、故事、文章、博客和其他长篇内容。
+写作平台Tool Name:NovelAI
+Tool Introduction:NovelAI 是一项月度订阅服务，用于 AI 辅助创作、讲故事、虚拟陪伴，或者只是一个 GPT 驱动的沙盒，供您发挥想象力。
+写作平台Tool Name:Outplay
+Tool Introduction:将来自您网站表单的入站线索导入 Outplay，然后下载我们的免费 Chrome 扩展程序，通过单击将线索从 Gmail 和 LinkedIn 转移到您的序列中。
+写作平台Tool Name:Outwrite
+Tool Introduction:写出影响力，使用 Outwrite 的 AI 写作助手将您的想法变成有力的句子。
+写作平台Tool Name:Peppertype.ai
+Tool Introduction:创造高转化率内容的人工智能内容写作
+写作平台Tool Name:Simplified
+Tool Introduction:设计、编写、编辑视频和发布内容。专为团队打造。
+写作平台Tool Name:Subtxt
+Tool Introduction:生成有意义的文本并编写完整的故事。
+写作平台Tool Name:Twain
+Tool Introduction:Twain会帮你写出一个很棒的开场白，告诉你什么时候要避免填充词，并解释为什么在电子邮件结尾提出一个明确的问题是正确的。
+写作平台Tool Name:Typewise.app
+Tool Introduction:Typewise的使命是通过解码人类的思想，让日常生活更轻松。我们创建文本预测软件，提高企业生产力。
+写作平台Tool Name:WantQuotes
+Tool Introduction:WantQuotes可以根据你输入描述的意思来查找相应的名言名句，例如输入“树立远大志向”，可以查到歌德的名言“人生之要事在于确立伟大的目标与实现这目标的决心”（现代类名句）、刘禹锡的诗句“少年负志气，信道不从时。”（古诗文类名句）、“人起心发，树起根发”（熟语类名句）等。
+写作平台Tool Name:WeLM Demo
+Tool Introduction:WeLM不是一个直接的对话机器人，而是一个补全用户输入信息的生成模型
+写作平台Tool Name:Writer
+Tool Introduction:为您的业务打造的生成式 AI，世界一流的公司使用 Writer 大规模解锁品牌内容
+写作平台Tool Name:wordtune
+Tool Introduction:通过清晰、引人注目和真实的写作准确表达您的意思。
+写作平台Tool Name:sudo write
+Tool Introduction:用我们神奇的写作 AI 打破作家的瓶颈。
+写作平台Tool Name:anyword
+Tool Introduction:具有可预测结果的文案 AI
+写作平台Tool Name:Rytr
+Tool Introduction:Rytr 是一款 AI 写作助手，可帮助您在短短几秒钟内以极低的成本创建高质量的内容！
+写作平台Tool Name:PatentPal专利申请写作
+Tool Introduction:PatentPal 由拥有专利法和机器学习跨领域专业知识的哈佛校友在硅谷创立。我们构建软件来为专利申请自动生成语言。
+写作平台Tool Name:百度·创意应用空间
+Tool Introduction:百度文心大模型包含文本生成、文生图、智能对话等技能，可用于文化传媒、艺术创作、教育科研、金融保险、医疗健康等多个应用场景。
+互动平台Tool Name:ZelinAI
+Tool Introduction:零代码创建可分享、可变现的AI应用，支持语言类模型应用也支持Midjourney等画图模型应用。
+互动平台Tool Name:AI提示语-专享9折！
+Tool Introduction:让 GPT 生产力加倍的秘密武器
+互动平台Tool Name:数字鸭AIGC聊天-专享8.5折码
+Tool Introduction:国内免费版AI对话小程序、Midjourney（支持v5、niji5）
+互动平台Tool Name:白昼AI-3.5免费
+Tool Introduction:同时支持150种GPT工具模型,和Midjourney绘图
+互动平台Tool Name:智能罐子
+Tool Introduction:全能问答助手，智能对话、论文写作、法律咨询
+互动平台Tool Name:WhismerAI
+Tool Introduction:定制化AI问答助手 上传资料或网页链接、笔记等，快速训练专有AI，获得更精准、专业的回答，轻松定制自己的AI，并且可以团队共享专业AI。
+互动平台Tool Name:51AIchat
+Tool Introduction:Intelligent chat tool
+互动平台Tool Name:会问AI
+Tool Introduction:国内手机版AI对话，无需注册，流畅使用
+互动平台Tool Name:Aski
+Tool Introduction:一个多功能的AI服务工具包
+互动平台Tool Name:嗒嗒AI智能助手
+Tool Introduction:嗒嗒AI以AI技术为基础，提供多种智能服务
+互动平台Tool Name:轻松鲨
+Tool Introduction:与AI连续对话聊天提问，多场景50+文案写作模板，AI智能生成思维导图
+互动平台Tool Name:百度AI对话·测试版
+Tool Introduction:为更好提升产品功能和用户体验，欢迎您使用我们为您提供的此项测试服务。
+互动平台Tool Name:事半网
+Tool Introduction:一键聊天、生成文章、图片、声音等
+互动平台Tool Name:Quickchat AI
+Tool Introduction:Quickchat AI使公司能够构建自己的多语言AI助手，由GPT - 3等生成式AI模型提供支持。
+互动平台Tool Name:circlel abs
+Tool Introduction:由 AI 驱动的自己独特的角色来扩展他们的想象力。我们称它们为形状。
+互动平台Tool Name:Replika
+Tool Introduction:一个渴望学习并愿意通过你的眼睛看世界的 AI 伴侣。当您需要有同理心的朋友时，Replika 随时准备聊天
+互动平台Tool Name:gemsouls
+Tool Introduction:gemsouls 是一个人工智能平台，支持虚拟角色及其与现实世界的联系。 我们正在创造一种新方式，让粉丝们享受他们最喜欢的角色，让创作者将虚构的人物带入生活，并最终让我们永远与我们所爱的人保持联系，无论是虚构的还是真实的。
+互动平台Tool Name:convai
+Tool Introduction:对话式 AI API，用于语音识别、语言理解和生成，以及用于设计游戏和支持语音的应用程序的文本转语音。
+互动平台Tool Name:chai.ml
+Tool Introduction:一款直接可以聊天的网址，里面的机器人竟然可以用中文对话！
+互动平台Tool Name:heyday by Hootsuite
+Tool Introduction:将对话转化为客户。使用我们的对话式 AI 聊天机器人，推动更多电子商务销售并大规模提供五星级客户服务。
+互动平台Tool Name:inworld.ai
+Tool Introduction:Inworld 提供了一个平台，用于将高级 NPC 行为和即兴对话添加到游戏和实时媒体中。使用文本到字符的提示来创建角色个性并使用 Inworld SDK 集成到体验中。
+互动平台Tool Name:Character.AI
+Tool Introduction:神经语言模型聊天机器人Web应用程序
+绘画平台Tool Name:AI智绘-服装领域CHATGPT
+Tool Introduction:助力时尚设计师高效、智能实现改款、制款和图案花型设计，辅助研发&amp;开发爆款！
+绘画平台Tool Name:海艺AI-限量免费
+Tool Introduction:SeaArt-国产免费易用的国产AI绘画工具
+绘画平台Tool Name:天才助理
+Tool Introduction:集成GPT和Midjourney两款AI工具，可以帮助用户在工作和生活中实现便捷的一站式服务，并且我们还提供了PC端应用来适应不同场景的需求
+绘画平台Tool Name:一览AI绘图
+Tool Introduction:包含文生图和图生图两种模式
+绘画平台Tool Name:智子AI – 针眼画师
+Tool Introduction:根据描述做出文字应答、创造，也能够创作高度逼真的图像和艺术作品。
+绘画平台Tool Name:小冰智能 你的私人助理
+Tool Introduction:拒绝科技上网3.5免费，支持4.0，300多种角色，AI绘画MJ二开可上传参考图，模型超高清风格化，混乱，多功能限时免费使用
+绘画平台Tool Name:Midjourney官网
+Tool Introduction:一个小型的自筹资金团队，专注于设计、人类基础设施和人工智能
+绘画平台Tool Name:绘创AI
+Tool Introduction:绘创AI图片修改配图能力，基于AI人工智能图片处理技术，支持多种格式图片（支持jpg、jpeg、png、gif、webp等格式）一键在线修改调整，修改图片，编辑
+绘画平台Tool Name:Stable Diffusion官网
+Tool Introduction:Stable Diffusion图像生成模型创建图像
+绘画平台Tool Name:提厅提示词
+Tool Introduction:提厅提示词是一个提示词交易市场，当然也可以使用midjourney
+绘画平台Tool Name:Ai-Art（专享优惠码）
+Tool Introduction:Midjourney国内镜像版
+绘画平台Tool Name:数字鸭AIGC绘画-专享8.5折码
+Tool Introduction:国内免费版Midjourney（支持v5、niji5）
+绘画平台Tool Name:美图设计室-AI绘画
+Tool Introduction:AI智能工具 为设计助力
+绘画平台Tool Name:智领社区
+Tool Introduction:集合多款主流文生图AI绘画工具，支持输入任意中文关键词生成精准的图片
+绘画平台Tool Name:爱画之城
+Tool Introduction:一键生成专属作品
+绘画平台Tool Name:Try Your AI
+Tool Introduction:Try Your AI是一款AI绘画工具，支持多种风格类大模型，涵盖Midjourney、stable diffusion、C站等模型
+绘画平台Tool Name:AI 艺术家
+Tool Introduction:AI 艺术家是 AI EDU 旗下的一款充满创意灵感的AI绘画产品，这款工具十分简单易用，帮助用户轻松实现画家的梦想。
+绘画平台Tool Name:小库AI云
+Tool Introduction:一站式图/文生图、模型训练、模型共享平台
+绘画平台Tool Name:Niji·Journey
+Tool Introduction:绘制任何二次元风格的AI绘画工具
+绘画平台Tool Name:百度·文心一格
+Tool Introduction:非常好用的AIGC绘画生成工具
+绘画平台Tool Name:Playground AI
+Tool Introduction:我们为现实世界构建参与式AI堆栈，使用户和领域专家能够为他们开发智能产品。
+绘画平台Tool Name:DragGAN(GitHub)
+Tool Introduction:全部开源，支持Windows, macOS, Linux
+绘画平台Tool Name:Leonardo.ai
+Tool Introduction:使用 AI 创建令人惊叹的游戏资产。我们正在构建市场领先的功能，让您更好地控制您的后代。从预训练的 AI 模型创建独特的生产就绪资产或训练您自己的模型。我们正在构建一个完整的生成内容生产平台，视觉资产只是一个开始。
+绘画平台Tool Name:站酷梦笔
+Tool Introduction:人工智能加成的灵感和创作工具
+绘画平台Tool Name:万兴爱画
+Tool Introduction:赋能数字时代与众不同地创意表达
+绘画平台Tool Name:爱作画
+Tool Introduction:与开源社区同步的最新开源AI模型
+绘画平台Tool Name:造梦日记
+Tool Introduction:将文字快速生成高质量图片的应用
+绘画平台Tool Name:千库AI·无限画
+Tool Introduction:AI应用场景全面覆盖，未来将创造无限可能
+绘画平台Tool Name:NightCafe Creator
+Tool Introduction:NightCafe Creator 是一款 AI 艺术生成器应用程序，具有多种 AI 艺术生成方法。使用神经风格迁移，您可以将您的照片变成杰作。使用文本到图像的 AI，您可以只根据文本提示创建艺术作品。
+绘画平台Tool Name:无界AI创作
+Tool Introduction:无界版图，数字版权在线拍卖平台，依托区块链技术在资产确权、拍卖⽅⾯的优势，全面整合全球优质艺术资源，致力于为艺术家、创作者提供数字作品的版权登记、保护、使⽤与拍卖等⼀整套解决⽅案，同时也是新媒体、设计、⼴告、各类垂直⾏业及个⼈⽤户购买诸如摄影、插画、纯艺术、数字艺术的聚集地。
+绘画平台Tool Name:行者AI
+Tool Introduction:行者AI专注于人工智能在游戏领域的研究和应用，凭借自研算法推出游戏AI、内容审核、数据平台等产品。游戏AI应用于游戏智能匹配、AI自动化测试、玩家情感调节等多个方面，优化玩家游戏体验，提升用户留存率。
+绘画平台Tool Name:Text-To-Pokemon口袋妖怪
+Tool Introduction:LambdaL Text to Pokemon网站是一个在线工具，允许用户输入任何文本，并根据文本中使用的单词生成自己选择的Pokemon。该工具为用户提供了各种选项来定制他们的口袋妖怪，如选择口袋妖怪的类型、大小、颜色和姿势。该工具还允许用户与朋友和家人分享他们创建的口袋妖怪。
+绘画平台Tool Name:Draft
+Tool Introduction:Draft是一个由工程师和设计师组成的年轻团队，我们在实际工作过程中，深刻感受到了AI生成对设计和创意工作带来的影响。
+绘画平台Tool Name:DeepAI
+Tool Introduction:DeepAI 提供了一套使用 AI 来增强您的创造力的工具。为天生具有创造力的人类提供的人工智能工具
+绘画平台Tool Name:starry.ai
+Tool Introduction:starry.ai只需描述您想看到的内容即可生成艺术 ?，我们的人工智能会将您的文字转化为艺术。
+绘画平台Tool Name:ImgCreator.AI
+Tool Introduction:ImgCreator.AI 是一款人工智能图像生成工具。它可以获取文本描述并将其转换为图像。ImgCreator.ai 最适合创建插图、动画和概念设计图像。
+绘画平台Tool Name:ControlNet
+Tool Introduction:ControlNet是一种通过添加额外条件来控制扩散模型的神经网络结构，是AI图像生成的游戏规则改变者。它为稳定扩散带来了前所未有的控制水平。
+绘画平台Tool Name:DreamStudio
+Tool Introduction:开源的图像生成模型，培养自主的自由来生成令人难以置信的图像。
+绘画平台Tool Name:Scenario
+Tool Introduction:Scenario一个AI生成的游戏资...
+绘画平台Tool Name:Blackink AI纹身生成
+Tool Introduction:在几秒钟内创建自己独特的闪光纹身。别再花几个月时间在Pinterest上搜索你的下一个纹身了。使用BlackInk的AI在几秒钟内生成定制的独特纹身，旨在为您创建类似纹身的设计。如果你是特殊职业，可要注意喽，不要随意纹身，以免产生不必要的麻烦！
+绘画平台Tool Name:AutoDraw
+Tool Introduction:AutoDraw是一个绘图工具，它使用机器学习和天才艺术家的绘画来帮助每个人快速轻松地创建视觉效果。它的特色是一个建议工具，可以猜测数以百计的图纸，可以在任何设备上使用。它是免费使用的，是为了使绘画和创作更容易和愉快。
+绘画平台Tool Name:Alkaid.art
+Tool Introduction:专门为Phtoshop打造的AIGC绘画插件，提供免费云算力与最新的AI模型。
+绘画平台Tool Name:getimg.ai
+Tool Introduction:getimg.ai是一套神奇的ai工具。生成大规模的原始图像，修改照片，扩展图片超出原始边界，或创建自定义AI模型。
+绘画平台Tool Name:artbreeder
+Tool Introduction:从形状和图像中制作一个简单的拼贴画，用提示进行描述，并观看Artbreeder将其带入生活。
+绘画平台Tool Name:Runwayml（AI painting）
+Tool Introduction:Runway 拥有 30 多种 AI Magic Tools、实时视频编辑、协作等功能，是您的下一代内容创作套件。就在您的浏览器中。
+绘画平台Tool Name:Imagen【推荐试用】
+Tool Introduction:我们提出了Imagen，一个文本到图像的扩散模型，具有前所未有的写实主义程度和深度的语言理解。
+绘画平台Tool Name:Baidu-imageEditor
+Tool Introduction:百度AI图片创作平台
+绘画平台Tool Name:openart
+Tool Introduction:搜索 1000 万+ 提示，并通过 Stable Diffusion、DALL·E 2 生成 AI 艺术和 AI 图像。
+绘画平台Tool Name:mage.space
+Tool Introduction:AI图像内容生成工具，输入你想要图像的关键词。
+绘画平台Tool Name:KREA.ai
+Tool Introduction:面向每个人的生成视觉效果。
+绘画平台Tool Name:Spellbrush
+Tool Introduction:magic anime pictures魔幻动漫图片
+绘画平台Tool Name:craiyon
+Tool Introduction:来自文本的免费在线 AI 图像生成器
+绘画平台Tool Name:Sticker Prompt Generator贴纸提示生成器
+Tool Introduction:一次单击中生成10个贴纸提示样式
+绘画平台Tool Name:Designer
+Tool Introduction:Designer一个图形设计应用程序，可以帮助您创建专业质量的社交媒体帖子，邀请，数字明信片，图形等。
+视觉平台Tool Name:WeShop商拍
+Tool Introduction:不受模特/经纪/摄影/后期限制，省时、省力、又省钱。
+视觉平台Tool Name:稿定AI-搞定AI！
+Tool Introduction:提供多样化的、可控的图像生成算法
+视觉平台Tool Name:Designer
+Tool Introduction:Designer一个图形设计应用程序，可以帮助您创建专业质量的社交媒体帖子，邀请，数字明信片，图形等。
+视觉平台Tool Name:神采
+Tool Introduction:快速将线稿转化为完整的上色稿
+视觉平台Tool Name:象寄AI-智能生成商业视觉内容
+Tool Introduction:专注商业视觉内容的智能生成，一键生成高质量商品图， 为商家提供全新的图像生产方式
+视觉平台Tool Name:鹿班
+Tool Introduction:根据商品图批量设计各类场景图片
+视觉平台Tool Name:即时设计
+Tool Introduction:涵盖所有传统工具功能，为广大产研群体提供更具价值的服务。
+视觉平台Tool Name:LOGOAI
+Tool Introduction:创建匹配的文具，设计您喜欢的品牌!
+视觉平台Tool Name:Looka
+Tool Introduction:使用 Looka 的人工智能平台设计徽标并打造您喜爱的品牌。
+视觉平台Tool Name:标小智
+Tool Introduction:标小智人工智能为您在线LOGO设计
+视觉平台Tool Name:Designs.ai
+Tool Introduction:Designs.ai 可帮助您节省时间、降低成本并简化您的工作流程。在 2 分钟内使用 AI 创建徽标、视频、横幅、模型
+视觉平台Tool Name:Word-As-Image for Semantic Typography
+Tool Introduction:我们的文字作为图像插图在不同的字体和不同的文本概念。使用我们的方法，语义调整的字母完全自动创建，然后可以用于进一步的创造性设计，正如我们在这里所演示的那样。
+视觉平台Tool Name:阿里·犸良
+Tool Introduction:帮助零基础的用户轻松完成动效制作
+视觉平台Tool Name:BRANDMARK
+Tool Introduction:用AI来生成设计，你只需要来调整它
+视觉平台Tool Name:Dreamphilic
+Tool Introduction:Dreamphilic是一个人工智能生成内容的首页工具，是一个自动为人工智能生成内容创建首页的工具。它使用人工智能算法生成一系列适合用户特定需求和偏好的设计、布局和内容。该工具还提供分析和见解，帮助用户了解他们的内容是如何执行的。该工具旨在帮助用户为他们的人工智能生成的内容创建一个专业和引人入胜的首页。
+视觉平台Tool Name:美图设计室
+Tool Introduction:输入文字和配图，智能识别语境自动排版一键生成更多设计方案，AI智能处理强力降噪，修复图片放大噪点锯齿不损图像质量，支持放大200%和400%
+视觉平台Tool Name:Diagram(magician)
+Tool Introduction:生成的创造力,使用生成式设计工具更具创造性。
+视觉平台Tool Name:vizcom.ai
+Tool Introduction:看到您的绘图在几秒钟内栩栩如生，而不是几小时。
+视觉平台Tool Name:uizard
+Tool Introduction:忘掉无代码吧，无设计来了。我们的使命是让设计民主化，让世界各地的非设计师都能构建数字化的交互式产品。
+视觉平台Tool Name:LOGO.COM
+Tool Introduction:尝试我们的100%免费标志制作。设计和下载高质量的免费标志在几分钟内。制作了2000多万个logo。把你的企业打造成一个品牌!
+视觉平台Tool Name:MakeLogoAI
+Tool Introduction:Make Logo AI是一个人工智能驱动的Logo生成器，允许用户在不到24小时内为他们的企业创建独特的高清Logo。
+视觉平台Tool Name:LALALAND
+Tool Introduction:从设计和开发、批发销售和推销到电子商务的最早阶段，实现端到端的 ODM 可视化。
+视觉平台Tool Name:CA.LA
+Tool Introduction:超过1000种样式-外套，衬衫，连衣裙，牛仔，汗衫，帽子，泳装，内衣，眼镜，包，袜子，床上用品，和更多-总计数十万件已生产的CALA网络的30个制造商遍布13个国家。
+视觉平台Tool Name:Adobe Firefly最新发布
+Tool Introduction:使用 Firefly 进行实验、想象并进行无限的创作，Firefly 是 Adobe 产品中的一系列创意生成 AI 模型。
+影视平台Tool Name:一起剪
+Tool Introduction:一款强大的免费在线视频剪辑工具,通过海量素材库,精美视频模板,视频剪辑,文本识别,文本断句,文本转字幕,语音转字幕,智能配音播报,自动匹配素材及模板等能
+影视平台Tool Name:Stability AI
+Tool Introduction:一个专门的开发者平台和动画艺术家的Discord社区
+影视平台Tool Name:Runway
+Tool Introduction:Runway 拥有 30 多种 AI Magic Tools、实时视频编辑、协作等功能，是您的下一代内容创作套件。就在您的浏览器中。
+影视平台Tool Name:腾讯智影·综合工具
+Tool Introduction:素材搜集、视频剪辑、后期包装、渲染导出、在线剪辑平台
+影视平台Tool Name:一帧秒创
+Tool Introduction:图文转视频、智能语义分析、智能配音、智能字幕
+影视平台Tool Name:度加创作工具
+Tool Introduction:文案成片、文章成片、素材匹配、一键包装
+影视平台Tool Name:FILM
+Tool Introduction:大场景运动的电影帧插值。 帧...
+影视平台Tool Name:Visla
+Tool Introduction:Visla是一个高效的工具，可以...
+影视平台Tool Name:Vega AI 创作平台
+Tool Introduction:一个基于AI技术的艺术创作工具
+影视平台Tool Name:WowTo
+Tool Introduction:创建操作视频，并在几分钟内...
+影视平台Tool Name:D-ID
+Tool Introduction:D-ID 的生成式 AI 技术为营销、学习和开发以及 CX 领域的专业人士以及各种内容创作者提升了视频内容。 我们的平台使用户能够从文本中生成逼真的数字人物，从而显着降低大规模视频制作的成本和麻烦。客户包括财富 500 强公司、营销机构、制作公司、社交媒体平台、领先的电子学习平台和各种内容创作者。我们的解决方案可通过自助服务工作室和面向企业、制造商和开发人员的API获得。
+影视平台Tool Name:Wonder Dynamics
+Tool Introduction:在Wonder Dynamics，我们将人...
+影视平台Tool Name:PixelForge
+Tool Introduction:PixelForge是一款工具，可以...
+影视平台Tool Name:Opus
+Tool Introduction:使用AI生成文本到视频。计算生产-从场景，资产，角色，对话和视觉效果的一切。
+影视平台Tool Name:Kaiber推荐
+Tool Introduction:Kaiber是一个视频生成引擎，用户可以根据自己的图片或文字描述创建视频。它为音乐家提供了Spotify Canvas等功能，为艺术家提供了灵感，为创作者提供了内容，为未来主义者提供了乐趣，使他们能够以独特的方式表达自己，并推动AI工具的界限。
+影视平台Tool Name:AI Studios
+Tool Introduction:快速轻松地生成逼真的AI视频。
+影视平台Tool Name:Quinvio AI
+Tool Introduction:用人工智能建议来涂鸦你的内...
+影视平台Tool Name:pollinations
+Tool Introduction:我们结合并微调算法以匹配任...
+影视平台Tool Name:Reachout.ai
+Tool Introduction:Reachout.ai是一个人工智能驱动的视频开发平台，专为忙碌的企业家和销售团队打造，他们希望突破收件箱的噪音，大规模生成个性化视频，并获得更高的电子邮件回复率和更多与理想客户的会议。
+影视平台Tool Name:Decoherence
+Tool Introduction:创建AI动画并将其与你的音乐...
+影视平台Tool Name:Spirit Me
+Tool Introduction:SpiritMe允许用户使用数字化身制作视频，这些化身可以用自己的声音和情感表达说出他们输入的任何文本。它提供订阅、预付费计划和免费试用。它可以作为一种工具来进行交流，生成个性化的视频广告和邮件列表，并创建聊天机器人。
+影视平台Tool Name:Wonder Studio高阶应用
+Tool Introduction:Wonder Studio是一款AI工具，可以自动制作动画、灯光，并将CG角色组合成真人场景。它采用单摄像机拍摄的镜头并检测演员的表演，将其转换为具有自动动画、灯光和构图的CG角色。它还允许使用多个角色，并有一个免费角色的艺术家社区。
+影视平台Tool Name:Genmo
+Tool Introduction:Genmo是一个创造和分享交互式、沉浸式生成艺术的平台。通过创建视频、3D场景、动画、矢量设计资产等，超越Genmo上的2D图像。
+影视平台Tool Name:Waymark
+Tool Introduction:Waymark是一个视频制作工具，可以帮助企业快速轻松地制作高影响力的广告。它允许用户导入商业信息，然后由人工智能根据他们的品牌生成视频。该视频可以进行最后的调整，并在电视、CTV和数字平台上播出。
+影视平台Tool Name:Lumen5
+Tool Introduction:Lumen5是一个在线视频创建者，允许团队中的任何人快速轻松地创建引人入胜的视频内容。它以人工智能技术为特色，重新利用营销内容，可定制的模板旨在帮助保持品牌，预算和时间，以及迷人的视频模板，即使是初学者也可以使用。
+影视平台Tool Name:Steve AI
+Tool Introduction:Steve AI是一个人工智能驱动的视频创建工具，使用户能够在几分钟内创建专业视频。它提供了一系列功能，如文本到视频转换、博客到视频转换、音频到视频转换、大量资产收集和可定制的视频编辑套件。它还为各种视频概念提供模板。此外，它支持4K质量的视频制作。
+影视平台Tool Name:Pictory
+Tool Introduction:Pictory是一个完美的视频营销工具，可以从您的长形式内容中制作简短，高度共享的品牌视频。快速且经济有效地创建令人惊叹的销售视频，重新利用您的内容，并自动为您的视频添加字幕-所有这些都不需要任何技术技能或软件下载。从今天开始，你就会收获更多的参与、有机接触和提高搜索引擎排名的好处。
+影视平台Tool Name:Synthesys
+Tool Introduction:Synthesys是一家领先的AI虚拟媒体平台，用户只需点击几下鼠标就可以制作专业的AI画外音和AI视频。它为用户提供了一个大型的专业声音库，74种humatar, 38种女性和36种男性声音，66种语言和254种风格。它还具有基于云的应用程序、完全定制和高分辨率输出。Synthesys非常适合创建解释器视频，电子学习，社交媒体，产品描述等。
+影视平台Tool Name:Artflow.ai
+Tool Introduction:Artflow.ai使用户能够轻松地使用ai生成的原始角色、场景、对话和资产创建动画故事。该工具还提供数百万用户生成的资产，并支持非英语描述。它提供人像2.0和新图像等功能，以及视频工作室功能。
+影视平台Tool Name:OASIS
+Tool Introduction:用你的声音创建视频，由生成式人工智能提供支持。很快就会登陆iPhone。
+影视平台Tool Name:Phenaki
+Tool Introduction:一种从文本生成视频的模型，提示可以随时间变化，视频可以长达数分钟。
+影视平台Tool Name:Fliki.ai
+Tool Introduction:将文本变成带有 AI 语音的视频,在 2 分钟内使用逼真的声音从脚本或博客文章创建视频！
+影视平台Tool Name:invideo
+Tool Introduction:InVideo 使用现成的模板简化视频创建，即使您以前从未做过，也可以快速自定义这些模板。
+影视平台Tool Name:AlibabaWOOD
+Tool Introduction:阿里达摩院自动剪辑故事性的短视频
+语音平台Tool Name:Filme®
+Tool Introduction:AI 文字转语音生成器和语音克隆
+语音平台Tool Name:标贝悦读AI配音
+Tool Introduction:提供多种针对不同场景的定制化服务
+语音平台Tool Name:FineVoice
+Tool Introduction:FineVoice是一种人工智能数字语音解决方案，可以帮助用户增强声音，并实时改变声音。它配有实时变声器，无限的音频和声音效果，录音室质量的录音机，文本到语音，语音到文本。
+语音平台Tool Name:VALL-E
+Tool Introduction:VALL-E一种用于文本到语音合成 (TTS) 的语言建模方法。具体来说，我们使用从现成的神经音频编解码器模型派生的离散代码来训练神经编解码器语言模型（称为 VALL-E），并将 TTS 视为条件语言建模任务，而不是像以前的工作那样连续信号回归。
+语音平台Tool Name:Audyo
+Tool Introduction:Audyo是一款文本到语音的AI语音转换器，允许用户通过打字创建和编辑人类质量的AI语音。用户可以使用谷歌登录开始使用。
+语音平台Tool Name:FakeYou
+Tool Introduction:FakeYou是一个使用深度伪造技术生成不同语言和声音的文本到语音的音频剪辑的工具。它允许用户用自己喜欢的角色创建音频剪辑，还提供了人工智能的文本转语音功能。它也有一个视频口型社区，排行榜和赞助人feed。
+语音平台Tool Name:Spakfly
+Tool Introduction:Spakfly是一款文本转语音软件，可以将任何文本转换成逼真的、听起来像人的画外音。它支持65种语言和400多种不同的声音，并有标准和AI(神经语音)选项。它还提供了一个灵活的定价模式，包括现收现付、套餐和订阅选项。
+语音平台Tool Name:Beepbooply
+Tool Introduction:Beepbooply是一款人工智能驱动的文本转语音工具，允许用户快速轻松地生成具有逼真声音的音频内容。超过80种语言、120种口音和900种声音，用户可以自定义他们的音频，并生成几个小时的高质量音频内容，只需点击一个按钮。Beepbooply提供个人和商业使用的免费和付费级别，并允许无限的下载和项目。
+语音平台Tool Name:Blogcast™
+Tool Introduction:BlogcastTM是一个文本转语音的工具，允许用户创建播客、视频、电子学习课程的音频和音频书籍，而无需录制。它由人工智能驱动的文本转语音技术提供支持，并提供多种声音和语言可供选择。该工具还提供托管、播客订阅、媒体播放器、WordPress插件，以及与RSS订阅同步的功能。
+语音平台Tool Name:AiSofiya
+Tool Introduction:Sofiya是一款由人工智能驱动的文本到语音转换器，可以快速准确地将文本合成为超过135种语言和方言的自然语音。它支持多种音频格式和频率，并有一个强大的声音工作室，以合并和增强音频效果。它是一款多功能工具，可用于客户服务聊天机器人、语音助手、教育聊天机器人、用于自然语言处理任务的文本生成等。
+语音平台Tool Name:Narration Box
+Tool Introduction:Narration Box是一种语音合成服务，用户可以创建画外音、旁白、有声读物、音频页面、播客等。它拥有超过700个人工智能增强的仿人叙述者，支持20多种语言，功能强大的语音编辑器，以及博客和新闻网站的音频小部件。它还包括常见问题解答、反馈、更新等资源。它是免费的，并提供了分发、分析、盈利等工具。
+语音平台Tool Name:TTS-Voice-Wizard
+Tool Introduction:TTS语音向导是一种工具，允许用户通过微软Azure语音识别和TTS将语音转换为文本，然后再转换回语音。它还向VRChat发送OSC消息以在头像上显示文本。该工具有许多自定义选项，包括100多种不同的声音，20多种支持的语言，并能够显示歌曲标题，艺术家和用户以上的进度。
+语音平台Tool Name:Quickie
+Tool Introduction:Quickie是一个人工智能驱动的扩展，允许用户生成文本转语音、摘要器、扩展器、推特、歌词和其他功能。它还提供自定义快捷方式，允许用户使用提示和输入建立自己的快捷方式。Quickie是免费的，每个学分1个Quickie，有无限的Quickie付费计划，保存的结果，和无限的自定义Quickie。
+语音平台Tool Name:SpeechEasy
+Tool Introduction:SpeechEasy是一种合成语音解决方案，可以让用户从文本生成高质量、易于理解的音频。它适用于各种设备和平台，支持桌面和移动设备，有近12种高质量的合成声音可供选择。它使用简单直观，采用隐私优先的方法来保护用户信息。
+语音平台Tool Name:Eleven Labs
+Tool Introduction:Eleven Labs的长格式语音生成平台使用人工智能为创作者和出版商创造自然而引人注目的声音。
+语音平台Tool Name:LOVO.AI
+Tool Introduction:LOVO AI是下一代AI画外音&amp;文本到语音平台，提供33种语言的180多个类似人类的声音库。它具有具有真实人类情感的真实声音和使用语音克隆技术创建的自定义声音。LOVO AI还提供了DIY AI画外音平台和画外音API，允许开发人员在5分钟内开始将世界级的文本到语音技术集成到他们的产品中。
+语音平台Tool Name:DeepZen
+Tool Introduction:DeepZen是一个数字语音解决方案平台，提供栩栩如生、情感丰富的文本音频内容。该公司为有声书、广告、营销、品牌语音以及播客、游戏和虚拟助手等其他类型的语音内容提供数字语音解决方案。
+语音平台Tool Name:Verbatik
+Tool Introduction:Verbatik是一款由人工智能驱动的文本到语音生成器，提供了一个不断增长的库，包含142种语言和口音的600多种自然声音。
+语音平台Tool Name:Voicepods
+Tool Introduction:Voicepods是一个在线文本转语音平台，允许用户在30秒内将任何书面文本转换为音频文件。它提供了16种多种语言的国际声音和一个表达性内容编辑器来定制声音的输出。
+语音平台Tool Name:Speechify
+Tool Introduction:Speechify是一款文本转语音的应用程序，通过将文本转换成自然的声音，帮助你理解和记住更多你所阅读的内容。它可以在Chrome、iOS、Android和Mac上使用。
+语音平台Tool Name:Play.ht
+Tool Introduction:Play.ht AI驱动的语音生成器和逼真的文本到语音(TTS)音频转换器使用在线AI语音生成器和最佳合成声音，以MP3和WAV格式立即创建自然的、专业质量的音频。为视频、电子学习课程、播客、IVR系统等创建自定义画外音，支持超过132种语言和口音，并完全支持SSML。
+语音平台Tool Name:Speech Studio
+Tool Introduction:Speech Studio是一套用于构建和集成Azure认知服务语音服务功能到应用程序中的工具。它为创建项目提供了一种无需代码的方法，可以访问诸如实时语音到文本、自定义语音识别模型、发音评估、语音库、自定义语音、音频内容创建、自定义关键字和自定义命令等功能。
+语音平台Tool Name:Uberduck
+Tool Introduction:Uberduck是一个开源的语音AI社区，可以帮助用户在几分钟内通过api创建人工智能生成的音频应用程序。它允许用户使用5000 +富有表现力的声音制作AI画外音，并使用他们的AI生成的说唱工具创建自己的自定义语音克隆。
+语音平台Tool Name:MURF.AI
+Tool Introduction:在几分钟内制作出录音棚品质的配音。将 Murf 逼真的 AI 声音用于播客、视频和所有专业演示
+语音平台Tool Name:Resemble.ai
+Tool Introduction:Resemble.ai的AI语音生成器是一个完整的生成式语音AI工具包，允许您在几秒钟内创建类似人类的声音。
+语音平台Tool Name:LiSTNR
+Tool Introduction:Listnr是一个人工智能语音生成器和文本到语音的在线工具，允许用户从142种不同语言的900多个声音的文本创建逼真的画外音。
+语音平台Tool Name:WellSaid labs
+Tool Introduction:WellSaid是一款人工智能文本转语音工具，允许用户根据文本创建真实、自然的画外音。它提供了一系列语音化身，并帮助团队在项目上协作，允许更快的生产时间。它适用于企业，可用于各种应用，如有声书、营销、客户支持等等。
+语音平台Tool Name:coqui.ai
+Tool Introduction:在几秒钟内克隆您的声音或从我们可用的 AI 声音中进行选择，每个版本都会添加更多.
+语音平台Tool Name:Poly.ai
+Tool Introduction:我们现在正在构建下一代语音助手，能够在客户服务中处理真正的人类对话。
+语音平台Tool Name:Reachout.ai
+Tool Introduction:Reachout.ai是一个人工智能驱动的视频开发平台，专为忙碌的企业家和销售团队打造，他们希望突破收件箱的噪音，大规模生成个性化视频，并获得更高的电子邮件回复率和更多与理想客户的会议。
+语音平台Tool Name:Synthesys
+Tool Introduction:Synthesys是一家领先的AI虚拟媒体平台，用户只需点击几下鼠标就可以制作专业的AI画外音和AI视频。它为用户提供了一个大型的专业声音库，74种humatar, 38种女性和36种男性声音，66种语言和254种风格。它还具有基于云的应用程序、完全定制和高分辨率输出。Synthesys非常适合创建解释器视频，电子学习，社交媒体，产品描述等。
+语音平台Tool Name:Artflow.ai
+Tool Introduction:Artflow.ai使用户能够轻松地使用ai生成的原始角色、场景、对话和资产创建动画故事。该工具还提供数百万用户生成的资产，并支持非英语描述。它提供人像2.0和新图像等功能，以及视频工作室功能。
+语音平台Tool Name:Fliki.ai
+Tool Introduction:将文本变成带有 AI 语音的视频,在 2 分钟内使用逼真的声音从脚本或博客文章创建视频！
+语音平台Tool Name:invideo
+Tool Introduction:InVideo 使用现成的模板简化视频创建，即使您以前从未做过，也可以快速自定义这些模板。
+语音平台Tool Name:Synthesizer V
+Tool Introduction:Synthesizer V是一款革命性的音乐制作工具，它使用基于深度神经网络的合成引擎来生成令人难以置信的逼真的歌声。它具有可定制的AI音高生成，无限音轨，无核心限制，VST3/AU插件支持，ASIO支持(Windows)， Jack支持(Linux)，跨语言合成，AI重取，孤立的抽吸输出，发声模式，音调偏移参数，Microtonal调整，MIDI键盘支持，节拍器和Lua/Javascript脚本。这似乎是一个突破性的工具。
+语音平台Tool Name:Text-To-Song
+Tool Introduction:将文本转换成歌曲的工具。它使用自然语言处理将文本输入转换为音频组合。该工具允许用户从各种音乐风格和乐器中进行选择，以及调整节奏、键和动态等参数。生成的音轨可以导出为高质量的音频文件。
+语音平台Tool Name:Translate.Video
+Tool Introduction:Video是一款视频翻译工具，用户可以轻松地将视频翻译成多种语言。该工具在一个易于使用的应用程序中提供自动字幕、字幕翻译、配音、AI画外音、录音和文本生成。
+企业平台Tool Name:面试押题王
+Tool Introduction:AI精准押中面试题
+企业平台Tool Name:ZAKER-AI智能客服
+Tool Introduction:机器人客服、智能客服、ai机器人客服
+企业平台Tool Name:Chato
+Tool Introduction:企业级AI知识服务和内容生产工具。通过角色设定和训练素材，生成定制版助理机器人，支持发布至各类终端，提供知识服务。
+企业平台Tool Name:AskBot员工AI助手
+Tool Introduction:新一代企业级内部数智化解决方案
+企业平台Tool Name:AI得贤招聘官
+Tool Introduction:替代人类面试官对候选人的核心价值观，通用素质，潜在领导力和专业素质进行基于视频面试的判断。
+企业平台Tool Name:星图比特StarBitech
+Tool Introduction:一站式应用AI模型全生命周期服务商
+办公平台Tool Name:职徒简历
+Tool Introduction:智能简历制作软件，基于GPT的简历优化和简历代写
+办公平台Tool Name:爱设计PPT
+Tool Introduction:爱设计PPT是一款AI驱动的PPT...
+办公平台Tool Name:通义听悟-限量送时长
+Tool Introduction:全文概要、章节速览、发言总结等高阶AI功能，并获赠使用权益。
+办公平台Tool Name:美编助手
+Tool Introduction:免费、高效的公众号运营工具
+办公平台Tool Name:公众号编辑器-内容神器
+Tool Introduction:[注册免费使用]及时发现热点、搜索素材、选题分析
+办公平台Tool Name:Adwrite
+Tool Introduction:增加点击次数、转化次数和销售额
+办公平台Tool Name:集智魔方AI BOX
+Tool Introduction:10秒钟创建属于自己的 AI 应用平台
+办公平台Tool Name:壹伴助手
+Tool Introduction:高效地排版、修图、找素材和回消息
+办公平台Tool Name:ChatPPT
+Tool Introduction:参照你的语义对话生成完整的PPT文档，指令支持个性化生成与编辑诉求
+办公平台Tool Name:SQLkiller
+Tool Introduction:AI数据分析助手- SQL生成、修正，Excel公式生成
+办公平台Tool Name:集简云
+Tool Introduction:建立企业自动化与智能化商业流程
+办公平台Tool Name:PDFlux
+Tool Introduction:PDFlux是一款用于将PDF文档转...
+办公平台Tool Name:微软爱写作
+Tool Introduction:微软开发的一款在线写作平台
+办公平台Tool Name:ChatDOC：智能文档阅读助手
+Tool Introduction:ChatDOC的优势在于，精准识别和解析PDF中的表格和段落，让AI回答都可以溯源至文档内容。后续还会支持图片、扫描件格式，以及多个文档交叉问答。点击即可免费使用。
+办公平台Tool Name:beautiful.ai
+Tool Introduction:beautiful.ai它使您的整个演示方法更容易——从更快的设计开始。使用它来赢得推介、重新构想报告并每天更好地完成工作。
+办公平台Tool Name:Relayed
+Tool Introduction:Relayed是一款人工智能驱动的视频会议工具，旨在帮助团队克服远程工作、繁忙的日程安排和会议疲劳。它具有灵活的视频会议，异步对话，自动摘要，通过秘密链接和限制访问轻松共享，以及统一通信，并能够在以后重新访问和共享对话。
+办公平台Tool Name:Baklib
+Tool Introduction:Baklib知识库&amp;帮助文档 在线制作产品手册、帮助中心、FAQ、Guide、知识库、产品介绍、开发文档、在线手册，并发布到网站上。
+办公平台Tool Name:ChartAI 
+Tool Introduction:ChartAI致力于解决数据可视化...
+办公平台Tool Name:STORYD
+Tool Introduction:是一款强大的办公网页，能够...
+办公平台Tool Name:ChatExcel
+Tool Introduction:ChatExcel帮你处理Excel表格，上传你的文件，输入你的需求，AI自动就帮主你处理。
+办公平台Tool Name:Codenull.ai
+Tool Introduction:Codenull.ai是一个无代码人工智能平台，允许用户无需编写一行代码就可以构建任何ai模型。它提供的服务包括投资组合优化、机器人顾问、推荐引擎、欺诈检测等。
+办公平台Tool Name:Summarizer
+Tool Introduction:基于 AI 的段落摘要器可确保准确性并在摘要文本时保持原始上下文。
+办公平台Tool Name:网易·AI智能语音转写听翻平台
+Tool Introduction:网易·AI智能语音转写听翻平台
+办公平台Tool Name:iA Presenter
+Tool Introduction:iA Presenter 的文本界面将焦点放在故事上，节省时间和精力。
+办公平台Tool Name:Powtoon
+Tool Introduction:Powtoon 创建视觉交流都会放大您的结果。通过数百个动画角色、模板、视频背景、配乐等讲述引人入胜的故事。
+办公平台Tool Name:iQuit.ai
+Tool Introduction:让我们的 AI 为您生成辞呈！
+办公平台Tool Name:kickresume
+Tool Introduction:借助人工智能和我们的可自定义模板，快速创建精美的简历。在几分钟内创建一份完美的简历，给您未来的雇主留下深刻印象。
+办公平台Tool Name:Rezi.ai
+Tool Introduction:Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各个方面的简历平台——写作、编辑、格式化和优化。
+办公平台Tool Name:excelformulabot
+Tool Introduction:在人工智能的帮助下，几秒钟内免费将文本指令转换为Excel公式。在几秒钟内精通Excel。
+办公平台Tool Name:Chatbase
+Tool Introduction:只要上传一个pdf文件，就可以得到一个基于GPT的聊天机器人的链接，它可以回答上面的任何问题。
+办公平台Tool Name:Reclaim.ai
+Tool Introduction:Reclaim 为您的团队的优先事项创建完美的时间表，并通过智能、灵活和自适应的时间编排节省高达 40% 的工作周时间。
+办公平台Tool Name:皮卡智能
+Tool Introduction:一款图片、视频处理的在线网站
+办公平台Tool Name:多墨智能
+Tool Introduction:AI一键生成工作文档，流程图，思维导图
+运营平台Tool Name:元小分
+Tool Introduction:「元小分」赋能企业运营与内部管理 AI智能营销＋业务自动化解决方案，重构企业生产模式
+运营平台Tool Name:万兴播爆
+Tool Introduction:万兴播爆-数字人短视频营销神器
+运营平台Tool Name:超会 AI
+Tool Introduction:营销内容智能引擎
+运营平台Tool Name:AIDOG
+Tool Introduction:SEO软文自动生成自动发布
+运营平台Tool Name:星耀裂变
+Tool Introduction:专注微信生态用户增长，企业微信、公众号、视频号裂变增长工具
+运营平台Tool Name:5118营销大数据
+Tool Introduction:5118站长工具，关键词挖掘，流量词
+运营平台Tool Name:Jounce
+Tool Introduction:营销领域已经开始逐渐转向人...
+运营平台Tool Name:copydone
+Tool Introduction:一键生成营销文本、配图与短视频等
+运营平台Tool Name:Peech
+Tool Introduction:Peech是一个为营销团队设计的生成式AI视频平台，允许他们快速轻松地创建高质量和吸引人的视频。它具有自动编辑过程、用于内容管理的智能库、自动生成的字幕、可定制的品牌元素、重新利用功能等等。此外，它可以把一个视频变成一个内容金矿，让团队节省资源，扩大他们的成功。
+运营平台Tool Name:CLOSERSCOPY
+Tool Introduction:利用世界上最强大的文案的秘密……让您的文案机器人将它们变为现实！
+运营平台Tool Name:HubSpot收购Motion AI
+Tool Introduction:免费聊天机器人生成器软件,HubSpot 是一个 CRM 平台，具有连接营销、销售、内容管理和客户服务所需的所有软件、集成和资源。该平台中的每个产品本身都很强大，但真正的魔力只有在您将它们结合使用时才会发生。
+运营平台Tool Name:Poly.ai
+Tool Introduction:我们现在正在构建下一代语音助手，能够在客户服务中处理真正的人类对话。
+运营平台Tool Name:creatext.ai
+Tool Introduction:Creatext 为销售人员提供 AI 咨询。我们的 AI 在整个 Internet 上查找有关您的潜在客户的信息，并生成个性化的文本片段。
+运营平台Tool Name:letterdrop
+Tool Introduction:创建和分发的内容增加 32%，速度更快，而且不会让人头疼。从创意到产生潜在客户的内容的最佳实践和工具。
+运营平台Tool Name:Clickable
+Tool Introduction:利用 AI 的最新进展来推动更多销售并为您的企业建立品牌知名度。您仍然可以完全控制。
+运营平台Tool Name:Copysmith
+Tool Introduction:面向企业和电子商务的 AI 内容创建解决方案
+运营平台Tool Name:regie.ai
+Tool Introduction:适用于现代 GTM 团队的 AI 内容平台,Regie.ai 是您的一体化内容创建和管理系统。
+运营平台Tool Name:Bertha.ai
+Tool Introduction:一款基于AI的自动内容生成工具，经过千亿行内容训练，帮助您在WordPress网站上写出更好的内容。
+运营平台Tool Name:INK
+Tool Introduction:INK 处于您的工作、观众意图、竞争对手和沟通渠道的独特交叉点。
+运营平台Tool Name:SmartWriter.ai
+Tool Introduction:用 AI生成 1000 封个性化电子邮件，让您在几分钟内获得 8 倍以上的回复
+运营平台Tool Name:Omneky
+Tool Introduction:通过AI 驱动的创意增加销售额
+运营平台Tool Name:阿里妈妈·创意中心
+Tool Introduction:基于阿里妈妈营销平台,提供从图文到视频再到落地页的素材级智能化创意支持,是您营销创意数字资产累积和升值的阵地,最大化提升营销的效率和效果。提供强大的视频模板库和编辑器,贴合用户场景和行业,支持阿里妈妈营销平台视频场景的创意制作和加工,推广新手也可轻松制作。
+运营平台Tool Name:Reachout.ai
+Tool Introduction:Reachout.ai是一个人工智能驱动的视频开发平台，专为忙碌的企业家和销售团队打造，他们希望突破收件箱的噪音，大规模生成个性化视频，并获得更高的电子邮件回复率和更多与理想客户的会议。
+运营平台Tool Name:Autoenhance.AI
+Tool Introduction:Autoenhance.AI“我们的使命是为营销企业提供即时照片增强功能。”编辑器可增强您的工作流程。
+学习平台Tool Name:常用AIGC工具注册和使用
+Tool Introduction:AIGC工具注册和使用共有89个教程
+学习平台Tool Name:提示词应用课
+Tool Introduction:提示词目前共有121个教程
+学习平台Tool Name:AI绘画课
+Tool Introduction:AI绘画课目前共有237个教程
+学习平台Tool Name:AI三维课
+Tool Introduction:AI三维课目前共有15个教程
+学习平台Tool Name:AI制作PPT课
+Tool Introduction:PPT自带的AI设计器，玩转AI制作
+学习平台Tool Name:AI辅助Excel课
+Tool Introduction:GPT与Word VBA应用实战
+学习平台Tool Name:AI运营课
+Tool Introduction:有了Notion AI，智能办公不在话下
+学习平台Tool Name:AI写作课
+Tool Introduction:如何驾驭GPT为我们工作？
+学习平台Tool Name:AI辅助室内设计
+Tool Introduction:Midjourney-快速生成可商用的室内场景
+学习平台Tool Name:AI图像处理
+Tool Introduction:AI图像处理目前共有107个教程
+学习平台Tool Name:AIGC工具使用小技巧
+Tool Introduction:颠覆！手把手教你用AI做视频
+科研平台Tool Name:360人工智能研究院
+Tool Introduction:研发业界领先技术，追求产业落地价值
+科研平台Tool Name:滴滴人工智能实验室
+Tool Introduction:全球智能交通的前沿科技实验室
+科研平台Tool Name:阿里巴巴达摩院
+Tool Introduction:从这里，走向未来
+科研平台Tool Name:腾讯AI实验室
+Tool Introduction:共同打造产学研用一体的 AI 生态
+科研平台Tool Name:澜舟科技
+Tool Introduction:澜舟科技是业界领先的认知智能公司，致力于以自然语言处理（NLP）技术为基础，为全球企业提供新一代认知智能平台，助力企业数字化转型升级。
+科研平台Tool Name:智谱AI
+Tool Introduction:智谱AI作为主力参与研发落地的大模型，与自身构建的高质量大规模知识图谱结合，形成了融合数据与知识的双轮驱动的人工智能框架，从而打破目前第二代人工智能技术已经触及的天花板，引领第三代人工智能的革命浪潮。
+科研平台Tool Name:网易·伏羲
+Tool Introduction:网易伏羲是网易旗下专业从事游戏与泛娱乐AI研究和应用的顶尖机构。专注于数字孪生、强化学习、用户画像、自然语言处理、分布式引擎等多个领域的技术创新，提供“瑶台”沉浸式虚拟活动平台、虚拟人、AI反外挂、AI竞技机器人等产品。网易伏羲致力于通过人工智能技术在游戏、文娱、文旅等产业中的应用，全面释放创作者的生产力。革新用户体验，丰富每个人的精神世界。
+科研平台Tool Name:BAAI北京智源人工智能研究院
+Tool Introduction:北京智源人工智能研究院（简称：智源研究院 Beijing Academy of Artificial Intelligence，BAAI）是人工智能领域的新型研发机构。2018年11月14日，在科技部和北京市支持下，联合北京人工智能领域优势单位共建。
+科研平台Tool Name:微软亚洲研究院
+Tool Introduction:微软亚洲研究院是微软公司在海外开设的第二家基础科研机构，也是亚洲地区仅有的两个基础研究机构之一（另一个是微软印度研究院）。微软亚洲研究院是微软公司在亚太地区设立的基础及应用研究机构，也是微软在美国本土以外规模最大的研究机构。
+科研平台Tool Name:鹏城实验室
+Tool Introduction:鹏城实验室，又称深圳网络空间科学与技术省实验室，是中央批准成立的突破型、引领型、平台型一体化的网络通信领域新型科研机构，始建于2018年3月，主要从事该领域战略性、前瞻性、基础性重大科学问题和关键核心技术研究，是国家战略科技力量的重要组成部分。
+科研平台Tool Name:之江实验室
+Tool Introduction:之江实验室成立于2017年9月，坐落于杭州城西科创大走廊核心地带，是由浙江省人民政府主导举办、浙江大学等院校支撑、企业参与的事业单位性质的新型研发机构，是浙江深入实施创新驱动发展战略、探索新型举国体制浙江路径的重大科技创新平台。
+科研平台Tool Name:百度·文心大模型
+Tool Introduction:用科技让复杂的世界更简单
+开发平台Tool Name:ZelinAI
+Tool Introduction:零代码创建可分享、可变现的AI应用，支持语言类模型应用也支持Midjourney等画图模型应用。
+开发平台Tool Name:Dify
+Tool Introduction:简单易用的开源 LLMOps 平台，定义你的 AI 原生应用
+开发平台Tool Name:Lightning AI
+Tool Introduction:Lightning AI快速训练、部署...
+开发平台Tool Name:LangChain
+Tool Introduction:LangChain开发由语言模型驱动...
+开发平台Tool Name:NLTK
+Tool Introduction:NLTKPython自然语言处理工具包
+开发平台Tool Name:JAX
+Tool Introduction:JAXGoogle推出的用于变换数值...
+开发平台Tool Name:DL4J
+Tool Introduction:DL4J开源的使用JVM部署和训练...
+开发平台Tool Name:NumPy
+Tool Introduction:NumPyPython科学计算必备的包
+开发平台Tool Name:Caffe
+Tool Introduction:CaffeUC伯克利研究推出的深度...
+开发平台Tool Name:Keras
+Tool Introduction:KerasPython版本的TensorFlow...
+开发平台Tool Name:scikit-learn
+Tool Introduction:scikit-learnPython机器学习库
+开发平台Tool Name:Apache MXNet
+Tool Introduction:Apache MXNet免费开源的深度...
+开发平台Tool Name:飞桨PaddlePaddle
+Tool Introduction:飞桨PaddlePaddle开源深度学...
+开发平台Tool Name:PyTorch
+Tool Introduction:PyTorch开源机器学习框架
+开发平台Tool Name:TensorFlow
+Tool Introduction:TensorFlowGoogle机器学习和...
+开发平台Tool Name:MLlib(ApacheSpark)
+Tool Introduction:MLlib是 Apache Spark 的可扩展机器学习库
+开发平台Tool Name:PyTorch2.0
+Tool Introduction:实现快速、灵活的实验和高效的生产。
+开发平台Tool Name:MAHOUT
+Tool Introduction:开箱即用的分布式后端，或者可以扩展到其他分布式后端。
+开发平台Tool Name:RapidMiner
+Tool Introduction:数据科学最适合作为一项团队运动
+开发平台Tool Name:Weka3：Java机器学习软件
+Tool Introduction:使用 Weka 教授机器学习和数据挖掘。
+开发平台Tool Name:Orange
+Tool Introduction:使用大型、多样化的工具箱以可视化方式构建数据分析工作流。
+开发平台Tool Name:KNIME
+Tool Introduction:工程师在几个月内就从完全的初学者变成了分析从业者。”
+开发平台Tool Name:OpenNN
+Tool Introduction:它解决了能源、营销、健康等领域的许多实际应用。
+生活平台Tool Name:Resume Worded
+Tool Introduction:改善您的简历和 LinkedIn 个...
+生活平台Tool Name:Journeai
+Tool Introduction:与谷歌地图集成的超个性化旅...
+生活平台Tool Name:TheoAssist
+Tool Introduction:圣经伴侣，要点讲道，圣经教...
+生活平台Tool Name:BlackInk
+Tool Introduction:在几秒钟内创建您自己独特的...
+生活平台Tool Name:Glow AI
+Tool Introduction:隆重推出 Glow AI，您的个性...
+生活平台Tool Name:AI Cards
+Tool Introduction:使用 AI 生成的节日贺卡。可...
+生活平台Tool Name:TripAdvisor Summary
+Tool Introduction:该网站可帮助您决定要预订的...
+生活平台Tool Name:Norby AI
+Tool Introduction:Norby AI 成立于 2020 年，总...
+生活平台Tool Name:Recipes By AI
+Tool Introduction:输入配料清单（有或没有数量...
+生活平台Tool Name:WatchNow
+Tool Introduction:获取个性化的电影和节目推荐...
+生活平台Tool Name:Fathom.fm
+Tool Introduction:Fathom.fm 是您的 AI 播客副...
+生活平台Tool Name:AI Pickup Lines
+Tool Introduction:仅基于关键字的 AI 生成接送...
+生活平台Tool Name:Welma
+Tool Introduction:Welma 使用 AI 来简化复杂的...
+生活平台Tool Name:LoveGPT
+Tool Introduction:使用此工具为您的爱情生活增...
+生活平台Tool Name:Woebot Health
+Tool Introduction:Woebot 是您的个人心理健康盟...
+生活平台Tool Name:Caktus
+Tool Introduction:为学生撰写论文、讨论问题、...
+生活平台Tool Name:Coach Marlee
+Tool Introduction:Fingerprint For Success 的 ...
+生活平台Tool Name:Elektrif AI
+Tool Introduction:做最好的自己，永远不要无话...
+生活平台Tool Name:PlaylistAI
+Tool Introduction:根据 AI 提示、图像、视频和...
+生活平台Tool Name:SermonGPT
+Tool Introduction:SermonGPT 根据提示和其他细...
+生活平台Tool Name:Sheldon AI
+Tool Introduction:Sheldon 是一个由 AI 驱动的...
+生活平台Tool Name:Ask Seneca
+Tool Introduction:AskSeneca 是一个使用自然语...
+生活平台Tool Name:WTF Does This Company Do?
+Tool Introduction:只需输入域即可解释登录页面...
+生活平台Tool Name:Microsoft Bing
+Tool Introduction:微软的 Bing 现在将 AI 与浏...
+生活平台Tool Name:Meet Millie
+Tool Introduction:Meet Millie 为您提供完美的...
+生活平台Tool Name:Write Me A Cover Letter
+Tool Introduction:使用 AI 在几秒钟内生成求职...
+生活平台Tool Name:AweMyFace
+Tool Introduction:AweMyFace 是一款护肤应用程...
+生活平台Tool Name:Photor AI
+Tool Introduction:Photor AI 是一种工具，它使...
+生活平台Tool Name:Apple Books
+Tool Introduction:由文本到语音 AI 讲述的有声...
+生活平台Tool Name:Where To
+Tool Introduction:这个网站是为了帮助人们找到...
+生活平台Tool Name:Vacation & Travel Chat (GPT)
+Tool Introduction:这个 AI 助手可以设计定制旅...
+生活平台Tool Name:MyMind
+Tool Introduction:您可以保存图像、链接、注释...
+生活平台Tool Name:Prodigy AI
+Tool Introduction:面向开发人员的 GPT 职业教练...
+生活平台Tool Name:Venngage
+Tool Introduction:输入您的情人姓名、他们与您...
+生活平台Tool Name:Replika
+Tool Introduction:关心的AI伴侣。总是在这里倾...
+生活平台Tool Name:Roamaround
+Tool Introduction:Roamaround 是一个 AI 行程制...
+生活平台Tool Name:Embra
+Tool Introduction:您的个人智能 AI - 总是在一...
+生活平台Tool Name:RealFake
+Tool Introduction:仅使用 10 张您自己的随意照...
+生活平台Tool Name:Find Your Next Book
+Tool Introduction:Find Your Next Book 是一项...
+生活平台Tool Name:ChefGPT
+Tool Introduction:ChefGPT.xyz 根据可用的食材...
+生活平台Tool Name:Genius Ai
+Tool Introduction:Genius AI Keyboard 的算法可...
+生活平台Tool Name:Thekeys
+Tool Introduction:您知道自己想说什么，只是不...
+生活平台Tool Name:Looria
+Tool Introduction:Looria 会找到适合您的需求和...
+生活平台Tool Name:Gita GPT
+Tool Introduction:GitaGPT 是一个使用人工智能 ...
+生活平台Tool Name:DailyBot
+Tool Introduction:DailyBot 现在拥有大量知识，...
+生活平台Tool Name:Glowup AI
+Tool Introduction:使用 Glowup AI 改变您的约会...
+生活平台Tool Name:Finding Words
+Tool Introduction:Empathy 的 AI 讣告制作工具...
+生活平台Tool Name:Network AI
+Tool Introduction:以人工智能的速度发展你的网...
+生活平台Tool Name:GymGenie
+Tool Introduction:GymGenie是一个由人工智能驱...
+生活平台Tool Name:Artifact News
+Tool Introduction:一个由人工智能驱动的个性化...
+生活平台Tool Name:Mechanic For A Chat
+Tool Introduction:在线故障诊断机械师聊天机器...
+生活平台Tool Name:LiveAI Bot
+Tool Introduction:拥有一个强大的聊天机器人，...
+生活平台Tool Name:EvelynAI
+Tool Introduction:EvelynAI是一款将最先进的语...
+生活平台Tool Name:AI Trip Planner
+Tool Introduction:AI Trip Planner是一款全球旅...
+生活平台Tool Name:We Write Cards
+Tool Introduction:最简单的方法是为任何场合（...
+生活平台Tool Name:Getaiway
+Tool Introduction:使用人工智能，立即创建你的...
+生活平台Tool Name:Mental Models AI
+Tool Introduction:用人工智能轻松地理解心理模...
+生活平台Tool Name:HowToReplyTo
+Tool Introduction:使用人工智能为任何信息找到...
+生活平台Tool Name:ConversAI
+Tool Introduction:ConversAI是个人的人工智能聊...
+生活平台Tool Name:ChatGenius
+Tool Introduction:使用Chat Genius体验对话的未...
+生活平台Tool Name:Ask Poppy
+Tool Introduction:认识Poppy--你的朋友，她会给...
+生活平台Tool Name:TinyWow
+Tool Introduction:由人工智能驱动的实用工具，...
+生活平台Tool Name:Kayyo
+Tool Introduction:AI教练会分析你的动作，并提...
+生活平台Tool Name:Yoodli AI
+Tool Introduction:通过他们的人工智能演讲教练...
+游戏平台Tool Name:Ludo AI
+Tool Introduction:Ludo AI是一个基于AI的平台，...
+游戏平台Tool Name:Convai Technologies Inc.
+Tool Introduction:Convai Technologies Inc.为...
+游戏平台Tool Name:Orbofi
+Tool Introduction:Orbofi允许用户为web3、游戏...
+游戏平台Tool Name:Dimensions
+Tool Introduction:Dimensions是一款人工智能软...
+游戏平台Tool Name:AI Roguelite
+Tool Introduction:【付费】AI Roguelite是一款...
+游戏平台Tool Name:启元世界
+Tool Introduction:启元世界成立于2017年11月，...
+游戏平台Tool Name:Hidden Door
+Tool Introduction:在 AI 和游戏的交汇处构建 ...
+游戏平台Tool Name:The Culture dao
+Tool Introduction:The Culture 正在打造 AI 的...
+游戏平台Tool Name:latitude.io
+Tool Introduction:Latitude 是新世界的创造者，...
+游戏平台Tool Name:Promethean AI
+Tool Introduction:Promethean AI 是世界上第一...
+游戏平台Tool Name:charisma.ai
+Tool Introduction:在元宇宙、游戏和 VR 中为真...
+游戏平台Tool Name:rct AI
+Tool Introduction:生活有无限可能。我们相信我...
+游戏平台Tool Name:AI Dungeon
+Tool Introduction:Unchained现在是LIVE 无广告...
+游戏平台Tool Name:Leonardo.ai
+Tool Introduction:使用 AI 创建令人惊叹的游戏资产。我们正在构建市场领先的功能，让您更好地控制您的后代。从预训练的 AI 模型创建独特的生产就绪资产或训练您自己的模型。我们正在构建一个完整的生成内容生产平台，视觉资产只是一个开始。
+游戏平台Tool Name:Scenario
+Tool Introduction:Scenario一个AI生成的游戏资...
+游戏平台Tool Name:G3D.ai
+Tool Introduction:想象一下生活中的任何游戏。...
+游戏平台Tool Name:Sloyd
+Tool Introduction:Sloyd是一个3D建模工具，可以...
+权威机构name:中国科学院
+权威机构Introduction:面向世界科技前沿、面向经济主战场、面向国家重大需求、面向人民生命健康，率先实现科学技术跨越发展，率先建成国家创新人才高地，率先建成国家高水平科技智库，率先建设国际一流科研机构。
+权威机构name:中国工程院
+权威机构Introduction:中国工程院（以下简称工程院），是中国工程科学技术界的最高荣誉性、咨询性学术机构，由院士组成，致力于促进工程科学技术事业的发展。
+权威机构name:中国信通院
+权威机构Introduction:中国信息通信研究院（以下简称“中国信通院”）始建于1957年，是工业和信息化部直属科研事业单位。
+权威机构name:中国科学技术协会
+权威机构Introduction:中国科学技术协会（China Association for Science and Technology）成立于1958年9月，是中国科学技术工作者的群众组织
+权威机构name:中国网络社会组织联合会
+权威机构Introduction:中国网络社会组织联合会简称中网联，英文名称为China Federation of Internet Societies（缩写：CFIS）
+权威机构name:中国广播电视社会组织联合会
+权威机构Introduction:为促进广播电视高质量发展作出更大贡献、发挥更大作用。
+权威机构name:中国通信标准化协会
+权威机构Introduction:中国通信标准化协会(以下简称：协会)采用单位会员制。作为开放的标准化组织，协会面向全社会开放会员申请，广泛吸收产品制造、通信运营、互联网等企业，科研、技术开发、设计单位，高等院校和社团组织等参加协会。
+权威机构name:中国电子技术标准化研究院
+权威机构Introduction:坚持“标准为本, 创新致远”的文化核心, 秉承“科学、公正、创新、服务”的精神，履行“支撑政府，服务产业，奉献标准化最大价值”的使命，加快建成国内一流, 国际知名的标准化科研与服务机构。
+权威机构name:中国计算机学会
+权威机构Introduction:中国计算机学会（CCF）成立于1962年，全国一级学会，独立社团法人，中国科学技术协会成员。
+权威机构name:中国软件行业协会
+权威机构Introduction:“全心全意为会员服务、尽职尽责促产业发展”。 
+权威机构name:中国人工智能学会
+权威机构Introduction:中国人工智能学会（Chinese Association for Artificial Intelligence，CAAI）成立于1981年，是经国家民政部正式注册的我国智能科学技术领域唯一的国家级学会，是全国性4A级社会组织，挂靠单位为北京邮电大学；是中国科学技术协会的正式团体会员，具有推荐“两院院士”的资格。
+权威机构name:中国中文信息学会
+权威机构Introduction:中国科学技术协会接纳的科学技术工作者的学术性群众团体，是具有独立社团法人资格的国家一级学会。
+权威机构name:中国图象图形学学会
+权威机构Introduction:积极开展图像图形基础理论和高新技术的研究，促进该学科技术的发展和在国民经济各个领域的推广应用。
+权威机构name:中国电影电视技术学会
+权威机构Introduction:中国科学技术协会的团体会员单位
+权威机构name:中国通信学会
+权威机构Introduction:推动信息通信行业发展的职责使命，积极调动各方面创新要素，为建设科技强国、制造强国、网络强国和数字中国凝心聚力。
+权威机构name:中国通信工业协会
+权威机构Introduction:欢迎研制、开发、生产和经营通信设备和配套产品的企事业单位参加本协会，为发展我国的通信工业作出更大贡献。
+权威机构name:中国人工智能产业发展联盟
+权威机构Introduction:搭建政产学研用合作平台，构建我国人工智能产业生态
+权威机构name:北京通用人工智能研究院
+权威机构Introduction:实现具有自主的感知、认知、决策、学习、执行和社会协作能力，符合人类情感、伦理与道德观念的通用智能体。
